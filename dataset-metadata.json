@@ -1,0 +1,10 @@
+{
+  "title": "Bastyasaka Attendance (React + Vite)",
+  "id": "YOUR_KAGGLE_USERNAME/bastyasaka-attendance",
+  "subtitle": "Web attendance app with face registration (React, Vite, Supabase)",
+  "description": "Aplikasi absensi siswa berbasis web — frontend React + Vite; backend menggunakan Supabase; face detection dengan face-api.js. Ganti 'id' dengan akun Kaggle Anda sebelum membuat dataset.",
+  "keywords": ["react", "vite", "supabase", "face-recognition", "attendance"],
+  "licenses": [
+    { "name": "CC0-1.0" }
+  ]
+}
